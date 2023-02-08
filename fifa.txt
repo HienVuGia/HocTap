@@ -1,0 +1,8 @@
+log.fo4vn.garenanow.com
+gw.fo4vn.garenanow.com
+dl.garenanow.com
+cdn.garenanow.com
+cdn-fo4.garenanow.com
+push.fo4vn.garenanow.com
+staticdata.fo4vn.garenanow.com
+login.live.com
