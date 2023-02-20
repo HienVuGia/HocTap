@@ -20,6 +20,7 @@ ipv4-c037-hkg001-ix.1.oca.nflxvideo.net
 ipv4-c038-hkg001-ix.1.oca.nflxvideo.net
 ipv4-c039-hkg001-ix.1.oca.nflxvideo.net
 ipv4-c045-sin001-ix.1.oca.nflxvideo.net
+ipv4-c048-hkg001-ix.1.oca.nflxvideo.net
 ipv4-c050-hkg001-ix.1.oca.nflxvideo.net
 ipv4-c052-hkg001-ix.1.oca.nflxvideo.net
 ipv4-c054-hkg001-ix.1.oca.nflxvideo.net
