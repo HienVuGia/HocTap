@@ -17,3 +17,4 @@ tv360.vn
 log.tv360.vn
 qr.tv360.vn	
 vod-ali1.tv360.vn
+img-zlr1.tv360.vn
