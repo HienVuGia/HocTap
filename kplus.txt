@@ -1,0 +1,7 @@
+img.kplus.vn
+queue-sgn.solocoo.tv
+login-any-sgn.solocoo.tv
+vstvlogin.solocoo.tv
+static-any-sgn.solocoo.tv
+vstvstatic.solocoo.tv
+tvapi-sgn.solocoo.tv

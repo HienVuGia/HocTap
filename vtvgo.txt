@@ -1,0 +1,11 @@
+vtvgo-image.vtvdigital.vn
+a-v2.vtvdigital.vn
+live-drm.vtvdigital.vn
+vtvgo.vn
+vtvgo-api-app-v6.vtvdigital.vn
+vtvgo-vod.vtvdigital.vn
+vtvgo-api-atv-v6.vtvdigital.vn
+assets-vtvcab.gviet.vn
+vtvgo-api-ios-v6.vtvdigital.vn
+push.vtvdigital.vn
+kms.vtvdigital.vn
