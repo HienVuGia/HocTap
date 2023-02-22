@@ -8,13 +8,6 @@ sgn-vtt-002.vieon.vn
 trailer.vieon.vn
 static2.vieon.vn
 vieon-tracking.vieon.vn
-static.klaviyo.com
-tags.aiactiv.io
-adnetwork-core.aiactiv.io
-tag-cdn.aiactiv.io
 click.vieon.vn
-sdk-cdn.aiactiv.io
 vieon.vn
-static-tracking.klaviyo.com
-telemetrics.klaviyo.com
 static.vieon.vn
