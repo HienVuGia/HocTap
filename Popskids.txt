@@ -29,15 +29,11 @@ www.kids.pops.vn
 tv.pops.vn
 staging-cms.pops.vn
 vnw-img-cdn.popsww.com
-search.spotxchange.com
 vnw-vod-cdn.popsww.com
 stream.popsww.com
 pops-app-mobile.firebaseio.com
 products.popsww.com
 ws.popsww.com
-sdk-01.moengage.com
-ib.adnxs.com
-bs.serving-sys.com
 cdn.popsww.com
 pops.vn
 popswwvn.ced.jns.swiftserve.com
