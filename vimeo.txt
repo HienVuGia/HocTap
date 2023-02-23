@@ -1,0 +1,5 @@
+f.vimeocdn.com
+player.vimeo.com
+vimeo.com
+i.vimeocdn.com
+api.vimeo.com

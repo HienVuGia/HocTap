@@ -1,0 +1,9 @@
+proxy-36.sg1.dailymotion.com
+proxy-33.sg1.dailymotion.com
+proxy-24.sg1.dailymotion.com
+proxy-37.sg1.dailymotion.com
+st.sv4.dailymotion.com
+st.nyc.dailymotion.com
+st.dc3.dailymotion.com
+graphql.api.dailymotion.com
+www.dailymotion.com
