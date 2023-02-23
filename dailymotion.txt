@@ -7,3 +7,16 @@ st.nyc.dailymotion.com
 st.dc3.dailymotion.com
 graphql.api.dailymotion.com
 www.dailymotion.com
+speedtest.dailymotion.com
+dmxleo.dailymotion.com
+proxy-03.sg1.dailymotion.com
+proxy-09.sg1.dailymotion.com
+proxy-30.sg1.dailymotion.com
+proxy-34.sg1.dailymotion.com
+vendorlist.dmcdn.net
+tofu.dmcdn.net
+static1.dmcdn.net
+s2.dmcdn.net
+s1.dmcdn.net
+public-prod-dspcookiematching.dmxleo.com
+dailymotionjsvideo432290662219.s.moatpixel.com
