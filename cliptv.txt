@@ -1,0 +1,13 @@
+cliptv.vn
+beta.cliptv.vn
+console.cliptv.vn
+cskh.cliptv.vn
+civi.cliptv.vn
+vip.cliptv.vn
+apis.cliptv.vn
+cms.cliptv.vn
+taiapps.cliptv.vn
+test.cliptv.vn
+dev.cliptv.vn
+api-tv.cliptv.vn
+apitv.clip.vn
