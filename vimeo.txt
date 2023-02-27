@@ -3,3 +3,7 @@ player.vimeo.com
 vimeo.com
 i.vimeocdn.com
 api.vimeo.com
+videoapi-sprites.vimeocdn.com
+player-telemetry.vimeo.com
+fresnel.vimeocdn.com
+fresnel-events.vimeocdn.com
