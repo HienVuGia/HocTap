@@ -1,0 +1,7 @@
+nethubtv.vn
+mail.nethubtv.vn
+dev.nethubtv.vn
+sandbox.nethubtv.vn
+api-01.nethubtv.vn	
+api-02.nethubtv.vn	
+api-config.nethubtv.vn	
