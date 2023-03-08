@@ -1,0 +1,16 @@
+kbn-test.giaibai.com
+link.giaibai.com
+staging.giaibai.com
+dev.giaibai.com
+kbn.giaibai.com
+api-dev.giaibai.com
+es.giaibai.com
+admin.giaibai.com
+admin-staging.giaibai.com
+api-staging.giaibai.com
+es-test.giaibai.com
+build-dev.giaibai.com
+admin-dev.giaibai.com
+giaibai.com
+www.giaibai.com
+api.giaibai.com

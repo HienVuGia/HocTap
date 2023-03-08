@@ -1,0 +1,8 @@
+sandbox.vnedu.vn
+app.vnedu.vn
+m.vnptpay.vn
+api.vnptpay.vn
+s19.vnedu.vn
+storage-vnedu-mobile-2.vnpt.vn
+baigiang3d.vnedu.edu.vn
+online-testing.top

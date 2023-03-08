@@ -1,0 +1,3 @@
+cdn2.topica.vn
+api-gateway.ulp.topica.vn
+edumall.vn

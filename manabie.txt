@@ -1,0 +1,4 @@
+www.manabie.vn
+api.production-blue.manabie.io
+cdn.manabie.net
+api.production-green.manabie.io

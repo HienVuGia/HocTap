@@ -1,0 +1,15 @@
+news-api.duolingo.com
+simg-ssl.duolingo.com
+midas-bandits-prod.duolingo.com
+zombie.duolingo.com
+goals-api.duolingo.com
+duolingo-achievements-prod.duolingo.com
+ios-api-2.duolingo.com
+excess.duolingo.com
+duolingo-leaderboards-prod.duolingo.com
+brb.duolingo.com
+stories.duolingo.com
+localization-duostrings.duolingo.com
+android-api-cf.duolingo.com
+vi.duolingo.com
+www.duolingo.com
