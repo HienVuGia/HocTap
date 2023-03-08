@@ -1,0 +1,8 @@
+apilog.mytvnet.vn
+hnirecommend.mytv.vn
+itva.mytv.vn
+itvp.mytv.vn
+s129135.cdn.mytvnet.vn
+s2129132.cdn.mytvnet.vn
+apilogduration.mytvnet.vn
+s129136.cdn.mytvnet.vn
