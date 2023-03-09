@@ -1,0 +1,12 @@
+ns1.y8.com
+ns2.y8.com
+static.y8.com
+stage.y8.com
+account.y8.com
+support.y8.com
+cdn.y8.com
+img-hws.y8.com
+vi.y8.com
+playtomic.y8.com
+Y8.com
+www.y8.com

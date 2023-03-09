@@ -1,0 +1,6 @@
+mail.gameslol.net
+webmail.gameslol.net
+en.gameslol.net
+admin.gameslol.net
+gameslol.net
+www.gameslol.net
