@@ -1,0 +1,8 @@
+api.gauthmath.com
+settings.gauthmath.com
+www.gauthmath.com
+sf19-va-mobile.gauthmath.app
+sf16-scmcdn-ehi.gauthmath.com
+gauthmath.onelink.me
+p16-ehi-va.gauthmath.com
+h5.gauthmath.com
