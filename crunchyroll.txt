@@ -4,7 +4,6 @@ www.crunchyroll.com
 pl.crunchyroll.com
 eec.crunchyroll.com
 beta-api.crunchyroll.com
-v.vrv.co
 api-manga.crunchyroll.com
 cms-manga.crunchyroll.com
 beta.crunchyroll.com
@@ -30,4 +29,3 @@ faspex.crunchyroll.com
 l.evidon.com
 c.evidon.com
 dgcollector.evidon.com
-rum.browser-intake-us5-datadoghq.com
